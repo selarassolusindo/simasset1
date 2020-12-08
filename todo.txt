@@ -1,0 +1,98 @@
+  3:50 AM 7/3/2020
+  - ubah cara simpan data-detail handover, ditambahkan data-detail penyusutan yang tercetak di excel form
+
+
+
+  1. handover, update sql-view
+  2. import data;
+  3. 
+
+
+
+
+  menu      : SETUP
+  sub-menu  : ASSET
+  proses    : penambahan daftar penyusutan untuk tiap2 asset (item)
+  start @   : 12:33 PM 6/19/2020
+  pending @ :
+  done @    : 11:38 PM 6/20/2020
+  note      : -
+
+
+
+[5:59 AM 6/17/2020]
+  menu     : SETUP
+  sub-menu : SIGNATURE
+  proses   : penambahan Job Title
+  start @  : 6:01 AM 6/17/2020
+  done @   : 6:10 AM 6/17/2020
+  note     : -
+
+
+[5:08 AM 6/17/2020]
+* menu    : PROSES
+  sub-menu: HANDOVER
+  proses  : membuat tombol print to excel pada saat selesai menginput data handover
+  note    : 
+  - diputuskan: php to excel: melengkapi file template excel yang sudah jadi
+  - 
+
+[2:00 PM 5/23/2020]
+* menu: PROSES, modul: HANDOVER,
+  - s.d. php to excel, isi excel yang sudah jadi ? atau create excel baru ya ?
+  - [DONE @5:12 AM 6/17/2020]
+
+[12:30 PM 5/23/2020]
+* menu: PROSES, modul: HANDOVER,
+  - perlu ditambahkan icon tambah USER SIGNATURE apabila belum ada
+
+
+  -----------
+  menu      : PROSES
+  sub-menu  : HANDOVER
+  proses    : s.d. grouping background color text antara TO dan BY
+  start @   : 7:43 PM 5/21/2020
+  pending @ : 
+  done @    : 12:31 PM 5/23/2020
+  note      : 
+  -----------
+
+
+
+  -----------
+  menu      : PROSES
+  sub-menu  : HANDOVER
+  proses    : perlu ditambahkan disposition-type pada table t101_ho_head,
+              contoh:
+                - owner to fc
+                - fc to dept
+                - dept to fc
+                - fc to owner
+  start @   : 10:52 AM 5/21/2020
+  pending @ : 
+  done @    : 12:32 PM 5/23/2020
+  note      : 
+  -----------
+
+
+  -----------
+  menu      : PROSES
+  sub-menu  : HANDOVER
+  proses    : 
+  start @   : 10:09 AM 5/21/2020
+  pending @ : 
+  done @    : 
+  note      : - 10:37 AM 5/21/2020, info to fc: belum ada kolom (field) jumlah item (qty.) yang dihanded-overkan
+  -----------
+
+
+
+  -----------
+  menu      : 
+  sub-menu  : 
+  proses    : 
+  start @   : 
+  pending @ : 
+  done @    : 
+  note      : 
+  -----------

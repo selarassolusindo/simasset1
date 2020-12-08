@@ -1,0 +1,58 @@
+[1.0.6] - 11:38 PM 6/20/2020
+* added
+  - setup - asset - depreciation list
+
+
+
+[1.0.5] - 9:48 AM 6/19/2020
+* added
+  - setup - asset group
+
+
+
+[1.0.4] - 9:48 AM 6/19/2020
+* changed
+  - ubah field structure di tabel t004_asset,
+    disesuaikan dengan contoh excel simulasi mencari nilai penyusutan
+
+
+
+[1.0.3] - 6:13 AM 6/17/2020
+* added
+  - report: cetak form handover
+  - signature: job title
+
+
+
+[1.0.2] - 10:15 AM 5/21/2020
+* added
+  - view: dashboard, modul: to do
+
+
+
+[1.0.1] - 1:08 PM 5/20/2020
+* added
+  - dashboard, tampilan baru :: accordion, baru terisi :: 1). draft asset report, dan 2). change log;
+
+
+
+[1.0.0] - 1:08 PM 5/20/2020
+* notes
+  - template
+    . unreleased
+    . added
+    . changed
+    . deprecated
+    . removed
+    . fixed
+    . security
+    . yanked
+
+  - readme
+    . aplikasi asset management
+    . mencatat depresiasi asset
+    . mencatat history procurement asset
+    . mencatat mutasi asset
+    . mencatat disposal asset
+    . mencatat asset sold
+
